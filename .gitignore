@@ -1,0 +1,4 @@
+example.db
+.env/
+*.pyc
+.vscode/
